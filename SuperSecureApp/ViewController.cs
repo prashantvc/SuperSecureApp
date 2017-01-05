@@ -68,7 +68,7 @@ namespace SuperSecureApp
 			UseTouchID();
 		}
 
-		void ShowMessage(string message = "Here's your boring message")
+		void ShowMessage(string message = "Here's your message Mr. Archer")
 		{
 			var alert = new NSAlert();
 			alert.MessageText = "Secrete Message";
